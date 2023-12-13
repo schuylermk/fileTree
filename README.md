@@ -1,4 +1,8 @@
-# React + Vite
+# JSON Dolls 😉
+
+<span style= "font-size: 100px">🪆</span> Code challenge to use nested <font size= "3">JSON</font> data and render an **expandable** / **collapsible** file-tree component. <span style="font-size: 100px">🪆</span>
+
+React and TypeScript, and a small handful Tailwind classes for good measure.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
